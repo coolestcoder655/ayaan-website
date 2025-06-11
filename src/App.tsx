@@ -55,16 +55,6 @@ const App = () => {
             alt="Ayaan"
             className="w-270 h-64 rounded object-cover shadow-lg border-4 border-white mb-4"
           />
-          <div className="bg-white bg-opacity-95 rounded-xl shadow-lg p-8 flex flex-col items-start w-full">
-            <h2 className="text-3xl font-bold text-blue-700 mb-2">Why is he so much better than Salaar?</h2>
-            <ul className="list-disc list-inside text-lg text-gray-700 space-y-1">
-              <li>He is better than Salaar.</li>
-              <li>He is a better person than Salaar.</li>
-              <li>He is a better friend than Salaar.</li>
-              <li>He is a better developer than Salaar.</li>
-              <li>He is a better human being than Salaar.</li>
-            </ul>
-          </div>
         </div>
       </div>
       
