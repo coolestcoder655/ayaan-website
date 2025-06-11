@@ -49,13 +49,6 @@ const App = () => {
             </ul>
           </div>
         </div>
-        <div className="bg-white bg-opacity-90 rounded-2xl shadow-2xl p-12 m-7 flex flex-col items-center space-y-8 w-full max-w-2xl">
-          <img
-            src="/betterImage.jpeg"
-            alt="Ayaan"
-            className="w-270 h-64 rounded object-cover shadow-lg border-4 border-white mb-4"
-          />
-        </div>
       </div>
       
       <p className='text-lg text-gray-700'></p>
@@ -63,7 +56,4 @@ const App = () => {
   );
 };
 
-export default App
-
-
-// Black, White, Blue, red
+export default App;
